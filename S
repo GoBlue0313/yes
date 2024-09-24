@@ -1,0 +1,7 @@
+public void determineSLikesMinors (): void {
+  bool S = true;
+  for (int i = 0; i < 1000; i++) {
+  if S == true;
+    System.out.println("S Likes Minors");
+  }
+}
